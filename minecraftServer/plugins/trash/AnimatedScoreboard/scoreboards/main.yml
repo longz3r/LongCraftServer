@@ -1,0 +1,6 @@
+display:
+  title:
+    text:
+      - "&bTPS: %server_tps_1_colored%"
+    random: false
+    interval: 10
